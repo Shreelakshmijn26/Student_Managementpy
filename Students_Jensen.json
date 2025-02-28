@@ -1,0 +1,12 @@
+[
+    {
+        "id": 5,
+        "name": " gayi",
+        "age": 36,
+        "grade": "g",
+        "subjects": [
+            "eng",
+            "mathes"
+        ]
+    }
+]
